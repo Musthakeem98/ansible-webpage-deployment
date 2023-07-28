@@ -1,0 +1,4 @@
+[webservers]
+ip_address ansible_ssh_user:root ansible_ssh_pass:password
+
+------add more if u need --------------
